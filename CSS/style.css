@@ -1,0 +1,41 @@
+.main{
+    width:500px;
+    margin: 0 auto;
+    border: 5px solid grey;
+}
+table{
+    border-collapse: collapse;
+    text-align: center;
+    font-family: Courier;
+    font-weight: bold;
+    font-size: 15px;
+    margin: 0 auto;
+}
+th{
+    background-color: goldenrod;
+    color: white;
+    padding: 8px;
+    border: 2px solid white;
+}
+td{
+    padding: 8px;
+}
+
+h2{
+    color: #0000fe;
+    text-align: center;
+}
+table{
+    width: 500px;
+    margin: 0 auto;
+}
+.date{
+    border: 2px solid silver;
+
+}
+#first{
+    color: red;
+}
+#end{
+    color: #0000fe;
+}
