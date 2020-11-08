@@ -11,6 +11,9 @@ table{
     font-size: 15px;
     margin: 0 auto;
 }
+sub{
+    font-size:10px;
+}
 th{
     background-color: goldenrod;
     color: white;
